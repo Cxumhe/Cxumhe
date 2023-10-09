@@ -1,4 +1,10 @@
-### Hi there 👋
+Hi, I'm SENNIER! 👋
+
+I am motivating to be a full stack developer. Currently exploring web technologies and contributing to open source.
+
+<div align="center">
+  <img  src="https://github-readme-streak-stats.herokuapp.com?user=dongyuanwai&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
+</div>
 
 <!--
 **Cxumhe/Cxumhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
