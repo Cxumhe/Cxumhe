@@ -35,6 +35,13 @@ Here's my current Tech Stack:
 
 You can find me in:
 
+<a href="https://github.com/Cxumhe" target="_blank">
+<img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2FCxumhe">
+</a>
+<a href="https://cxumhe.live/" target="_blank">
+<img alt="Static Badge" src="https://img.shields.io/badge/CXUMHELIVE-orange?style=for-the-badge&logo=polygon&logoColor=white">
+</a>
+
 
 
 <!--
